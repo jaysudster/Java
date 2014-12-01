@@ -12,6 +12,7 @@ public class string {
        System.out.println("Enter your second position");
        k = in.nextInt();
        System.out.println(a.substring(j,k));
+       System.out.println("Thank you");
     }
     
 }
